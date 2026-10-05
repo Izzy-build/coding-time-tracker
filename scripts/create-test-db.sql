@@ -1,0 +1,1 @@
+CREATE DATABASE ctt_test OWNER ctt;
